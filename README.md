@@ -2,7 +2,7 @@
 
 <a name="intro"></a>
 # DATAVASE - Cypher Narrative Game
-Idea: use Construct 3 Tile-movement behaviour. Left right choses the decrytion ring. Up down swaps the symbols.
+Idea: use Construct 3 Tile-movement behaviour. Left right choses the decryption ring. Up down swaps the symbols.
 Idea: the actual datavase is visible since the very beginning from menu (can be interacted with). Once you finish the game you will be able to decrypt the ending code and access the datavase. Added bonus and mystery!
 
 ![](27986596-71321238-6401-11e7-8e5d-22fe32742536.jpg)
